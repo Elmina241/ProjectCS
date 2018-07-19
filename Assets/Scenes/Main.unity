@@ -9849,7 +9849,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: <color=#fc8529>$</color>112.57
+  m_Text: <color=#fc8529>$</color>132.57
 --- !u!222 &1631310751
 CanvasRenderer:
   m_ObjectHideFlags: 0
